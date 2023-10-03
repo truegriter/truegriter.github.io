@@ -40,3 +40,12 @@ nav ul li a {
     font-size: 24px;
     margin-top: 20px;
 }
+
+.login {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
